@@ -1,6 +1,6 @@
 # Yummy Tempalte
 
-i got this design from adobe xd file
+designed using bootstrap
 
 ## Preview
 
