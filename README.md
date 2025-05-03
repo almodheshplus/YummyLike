@@ -1,6 +1,6 @@
 # Yummy Tempalte
 
-designed using bootstrap
+designed using bootstrap 
 
 ## Preview
 
